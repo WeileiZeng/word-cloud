@@ -1,0 +1,64 @@
+{
+    "Weilei Zeng": 1,
+    "Duke Quantum Center": 0.5,
+    "PostDoc":0.2,
+    "SJTU": 0.5,
+    "Shanghai Jiao Tong University": 0.5,
+    "Bachelor":0.2,
+    "UCR":0.5,    
+    "University of California, Riverside":0.5,
+    "PhD":0.5,
+    "Riverside":0.3,
+    "LA":0.1,
+    "Hilander":0.1,
+
+    "Quantum error correction": 2,
+    "QEC": 2,
+    "Fault tolerance":1,
+    "FT": 1,    
+        
+    "Condensed matter physics": 0.2,
+    "Quantum computing": 0.4,
+    "Quantum circuit": 0.3,
+    "Quantum simulator": 0.3,
+    "QVM": 0.3,
+
+    "trapped ion":0.2,
+    "superconducting qubits":0.2,
+
+    "Steane code":0.2,
+    "QHP code":0.2,
+    
+    
+    "HPC":0.3,
+    "Sunway Super Computer":0.2,
+    
+    "Slurm":0.2,
+    "Python": 0.2,
+    "C++":0.15,
+    "Jupyter":0.2,
+    "Docker":0.2,
+    "oh-my-zsh":0.1,
+    "Macbook Air":0.1,
+    "latex":0.1,
+    "markdown":0.1,
+    "html":0.1,
+    "shell":0.1,
+    "Matlab": 0.1,
+    "Julia":0.1,
+    "Fortran":0.1,
+    "MPI":0.1,
+    "openmp":0.1,
+
+    
+    "Kyte flying":0.1,
+    "Hiking":0.1,    
+    "Basketball":0.05,
+    "Badminton":0.05,
+    "Monet":0.05,
+    "Build Your Dreams":0.05,
+    "BYD":0.1,
+
+    "to be dad":0.1
+    
+}
