@@ -1,7 +1,10 @@
 {
     "Weilei Zeng": 1,
+    "Hunan province":0.2,
+    "Shaodong":0.2,
     "Duke Quantum Center": 0.5,
     "PostDoc":0.2,
+    "Durham":0.1,
     "SJTU": 0.5,
     "Shanghai Jiao Tong University": 0.5,
     "Bachelor":0.2,
@@ -10,24 +13,39 @@
     "PhD":0.5,
     "Riverside":0.3,
     "LA":0.1,
+    "California":0.1,
     "Hilander":0.1,
+    "Pengcheng Lab":0.2,
+    "Nokia Bell Labs":0.2,
+    "Xanadu Quantum Inc":0.2,
 
     "Quantum error correction": 2,
     "QEC": 2,
     "Fault tolerance":1,
     "FT": 1,    
-        
+
+    "Physics":0.3,
     "Condensed matter physics": 0.2,
     "Quantum computing": 0.4,
     "Quantum circuit": 0.3,
+    "Clifford circuit":0.2,
     "Quantum simulator": 0.3,
     "QVM": 0.3,
+    "Pauli operator":0.2,
 
     "trapped ion":0.2,
     "superconducting qubits":0.2,
 
+    "Surface code":0.3,
+    "Toric code":0.3,
     "Steane code":0.2,
     "QHP code":0.2,
+    "Quantum Hypergraph Product code":0.2,
+    "Subsystem product code":0.2,
+    "Belief propogation":0.2,
+    "Random window decoder":0.2,
+    "Phase transition":0.1,
+    "Percolation":0.1,
     
     
     "HPC":0.3,
@@ -39,6 +57,8 @@
     "Jupyter":0.2,
     "Docker":0.2,
     "oh-my-zsh":0.1,
+    "tmux":0.1,
+    "emacs":0.1,
     "Macbook Air":0.1,
     "latex":0.1,
     "markdown":0.1,
@@ -58,6 +78,7 @@
     "Monet":0.05,
     "Build Your Dreams":0.05,
     "BYD":0.1,
+    "Xiaomi":0.1,
 
     "to be dad":0.1
     
